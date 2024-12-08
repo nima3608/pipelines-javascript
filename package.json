@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "mocha": "^3.0.0"
+    "mocha": "^11.0.1"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
